@@ -1,5 +1,7 @@
 / https://create-react-app.dev/
 /advanced-config https://create-react-app.dev/docs/advanced-configuration/
+/analyzing-bundle-size: https://create-react-app.dev/docs/analyzing-the-bundle-size/
+/code-splitting: https://create-react-app.dev/docs/code-splitting/
 /deployment https://create-react-app.dev/docs/deployment
 /failed-to-minify https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify
 /pwa https://create-react-app.dev/docs/making-a-progressive-web-app/
